@@ -18,7 +18,7 @@ The 100 Days of Code challenge is a self-imposed commitment to code every day fo
 | 7 |Hangman Game|A Python version of the classic Hangman word-guessing game.|
 | 8 |Caesar Cipher Encoder/Decoder|Encode and decode messages using the Caesar Cipher technique.|
 | ... |    ...  |        ......            |    
-| 100 |Final Project|Stay tuned for the final project!
+| 100 |Final Project|Stay tuned for the final project!|
 
 ## How to Use
 
