@@ -27,8 +27,8 @@ The 100 Days of Code challenge is a self-imposed commitment to code every day fo
 ## 1. Clone the repository: 
  
 ```bash
-  git clone https://github.com/sami-thedev/100-days-of-code-python.git
-cd 100-days-of-code-python
+  git clone https://github.com/sami-thedev/100-days-code-challenge-in-python.git
+cd 100-days-code-challenge-in-python
 ```
 ## 2. Navigate to the project folder:
 
